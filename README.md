@@ -1,6 +1,6 @@
 # diliai
 
-A simple script to take in a PDF, chunk it up, and allows you to ask questions about it (RAG).
+A simple script to take in a PDF and allows you to ask questions via LLM.
 
 ## Files
 
